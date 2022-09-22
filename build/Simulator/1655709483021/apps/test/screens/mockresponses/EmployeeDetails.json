@@ -1,0 +1,25 @@
+{
+	"EmployeeDetails": [
+		{
+			"Id": 1,
+			"EmployeeName": "Jhon",
+			"LastName": "vivake",
+			"Sex": "Male",
+			"Age": 45
+		},
+		{
+			"Id": 2,
+			"EmployeeName": "Anthony",
+			"LastName": "vfedcfedfce",
+			"Sex": "Female",
+			"Age": 35
+		},
+		{
+			"Id": 3,
+			"EmployeeName": "jim",
+			"LastName": "fvrdvfrdgke",
+			"Sex": "Female",
+			"Age": 30
+		}
+	]
+}

@@ -1,0 +1,1 @@
+apz.app.onLoad_MokeData=function(){var params={};params.appId="test";params.scrName="MokeData";params.ifaceName="EmployeeDetails";params.buildReq="N";params.paintResp="Y";params.callback=this.SDNCallBack;apz.server.callServer(params);console.log(params.Sex)};SDNCallBack=function(){};

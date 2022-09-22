@@ -1,0 +1,10 @@
+apz.app.onLoad_JsonData = function(params){
+var filePath = apz.getDataFilesPath("test") + "/EmployeeDetails.json";
+var content = apz.getFile(filePath);
+content = JSON.parse(content);
+console.log(content);
+
+apz.data.scrdata.test__PaintData_Res ={};
+apz.data.scrdata.test__PaintData_Res.employeeDetails = content.employeeDetails;
+apz.data.loadData("PaintData", "test");
+}

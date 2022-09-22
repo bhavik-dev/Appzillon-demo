@@ -1,0 +1,11 @@
+{
+"employeeDetails": [{
+"empName": "John Smith",
+"empId": "1111",
+"city": "bangalore"
+}, {
+"empName": "Mark",
+"empId": "2222",
+"city": "hydrabad"
+}]
+}

@@ -1,0 +1,1 @@
+apz.app.onLoad_screen2=function(params){apz.setElmValue("test__screen2__txtuser",params.username);apz.setElmValue("test__screen2__txtpass",params.password)};
